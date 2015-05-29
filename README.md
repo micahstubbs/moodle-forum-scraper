@@ -1,5 +1,7 @@
 # moodle-forum-scraper
 
+[![Join the chat at https://gitter.im/micahstubbs/moodle-forum-scraper](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/micahstubbs/moodle-forum-scraper?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 want to archive those nice conversations you had in the forums of your soon-to-conclude mooc? 
 
 now you can.
