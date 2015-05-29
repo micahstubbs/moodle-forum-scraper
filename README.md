@@ -13,7 +13,7 @@ read the comments in `1-scrape-forums.py` for suggestions on adapting these scri
 built with Python 2.7.8 on Mac OS X Yosemite
 
 ####usage
-run from the terminal with the commands
+run the scripts from the terminal with the commands:
 
 `python 1-scrape-forums.py`
 
