@@ -1,6 +1,8 @@
 # moodle-forum-scraper
 
-want to archive those nice conversations you had in the forums of your soon-to-conclude mooc? now you can.
+want to archive those nice conversations you had in the forums of your soon-to-conclude mooc? 
+
+now you can.
 
 a set of scripts to scrape forum posts and user profiles from a [moodle](https://moodle.org/) course.  
 
